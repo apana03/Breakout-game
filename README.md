@@ -1,1 +1,1 @@
-"# Breakout-game" 
+Welcome to the VHDL Breakout Game repository! This project is an implementation of the classic Breakout game in VHDL, a hardware description language used for designing digital circuits. This game is designed to run on FPGA (Field-Programmable Gate Array) hardware, more exactly a Gecko4Education board in this case, providing an engaging experience for digital design enthusiasts and hobbyists. 
